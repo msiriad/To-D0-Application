@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    padding: 10px;
+}
+h6{
+    font-size: 7px;
+    text-align: right;
+}
+.allPost{
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.form-label{
+    font-size: 20px;
+}
+.container{
+    background-color: rgb(232, 245, 255);
+    padding: 10px;
+}
+.updateBtn{
+    display: none;
+}
